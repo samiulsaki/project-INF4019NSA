@@ -1,0 +1,11 @@
+{
+  "name": "replicator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "co-request": "1.0.0",
+    "koa": "1.2.0"
+  }
+}

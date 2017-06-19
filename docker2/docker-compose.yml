@@ -1,0 +1,42 @@
+version: '2'
+
+networks:
+  web:
+    driver: overlay
+
+services:
+  replicator:
+    image: hanzel/replicator
+    container_name: replicator
+    ports:
+      - "443:443"
+    environment:
+      - constraint:node==swarm-slave1
+      - DOCKER_HOST=${DOCKER_HOST}
+    volumes:
+      - /home/ubuntu/ssl:/ssl
+    networks:
+      - web
+
+  lb:
+    image: hanzel/load-balancing-swarm
+    container_name: load-balancer
+    ports:
+      - "80:80"
+    environment:
+      - constraint:node==swarm-master
+      - APP_NAME=node-replicate
+      - CONSUL_URL=${KV_IP}:8500
+    depends_on:
+      - web
+    networks:
+      - web
+
+  web:
+    image: hanzel/node-replicate
+    ports:
+      - "3000"
+    volumes:
+      - /home/ubuntu/ssl:/ssl
+    networks:
+      - web
