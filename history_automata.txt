@@ -1,0 +1,1000 @@
+ 1114  netstat -pant
+ 1115  watch -n -2 netstat -pant
+ 1116  watch -n -2 netstat
+ 1117  watch -n -2 netstat -p
+ 1118  watch -n -2 netstat -p | grep ssh
+ 1119  atch -n -2 netstat -p | grep ssh
+ 1120  netstat -p | grep ssh
+ 1121  netstat -p | grep 22
+ 1122  watch -n -2 netstat -p
+ 1123  watch -n -2 netstat -pant
+ 1124  watch -n 2 netstat -pant
+ 1125  watch -n 2 /proc/net/ip_conntrack
+ 1126  watch -n 2 /proc/net/ipv6_route
+ 1127  watch -n 2 sudo /proc/net/ipv6_route
+ 1128  watch -n 2 cat /proc/net/ip_tables_matches
+ 1129  watch -n 2 cat /proc/net/udp
+ 1130  watch -n 2 cat /proc/net/arp
+ 1131  watch -n 2 cat /proc/net/tcp
+ 1132  watch -n 1 cat /proc/net/tcp
+ 1133  watch -n 1 cat /proc/net/netstat
+ 1134  watch -n 1 cat /proc/net/netstat -p
+ 1135  watch -n 1 cat /proc/net/netstat -pant
+ 1136  watch -n 1 cat /proc/net/netstat
+ 1137  watch -n 1 cat /proc/net/igmp
+ 1138  watch -n 1 cat /proc/net/tcp6
+ 1139  watch -n 1 cat /proc/net/tcp
+ 1140  watch -n 1 cat /proc/net/stat/arp_cache
+ 1141  watch -n 1 cat /proc/net/wireless
+ 1142  watch -n 1 cat /proc/net/snmp
+ 1143  watch -n 1 cat /proc/net/unix
+ 1144  watch -n 1 cat /proc/net/icmp
+ 1145  watch -n 1 cat /proc/net/icmp6
+ 1146  watch -n 1 cat /proc/net/arp
+ 1147  arp
+ 1148  arp -a
+ 1149  arp
+ 1150  stat
+ 1151  igmp
+ 1152  tcpdump -h
+ 1153  tcpdump man
+ 1154  man tcpdump
+ 1155  hping3
+ 1156  nc
+ 1157  man netcat
+ 1158  ~/show.sh
+ 1159  ping 10.1.25.48
+ 1160  ping 10.1.25.47
+ 1161  ~/show.sh
+ 1162  ls
+ 1163  cat auto-scaling.sh
+ 1164  nano auto-scaling.sh
+ 1165  hatop -s /var/run/haproxy/admin.sock
+ 1166  ~/show.sh
+ 1167  nano auto-scaling.sh
+ 1168  sh auto-scaling.sh
+ 1169  nano auto-scaling.sh
+ 1170  sh auto-scaling.sh
+ 1171  nano auto-scaling.sh
+ 1172  sh auto-scaling.sh
+ 1173  nano auto-scaling.sh
+ 1174  nano -o auto-scaling.sh
+ 1175  nano -c auto-scaling.sh
+ 1176  sh auto-scaling.sh
+ 1177  nano -c auto-scaling.sh
+ 1178  nano auto-scaling.sh
+ 1179  sh auto-scaling.sh
+ 1180  nano auto-scaling.sh
+ 1181  sh auto-scaling.sh
+ 1182  nano auto-scaling.sh
+ 1183  sh auto-scaling.sh
+ 1184  nano auto-scaling.sh
+ 1185  sh auto-scaling.sh
+ 1186  nano auto-scaling.sh
+ 1187  nano -c auto-scaling.sh
+ 1188  sh auto-scaling.sh
+ 1189  nano -c auto-scaling.sh
+ 1190  sh auto-scaling.sh
+ 1191  nano -c auto-scaling.sh
+ 1192  sh auto-scaling.sh
+ 1193  nano -c auto-scaling.sh
+ 1194  sh auto-scaling.sh
+ 1195  nano -c auto-scaling.sh
+ 1196  sh auto-scaling.sh
+ 1197  nano -c auto-scaling.sh
+ 1198  sh auto-scaling.sh
+ 1199  nano -c auto-scaling.sh
+ 1200  sh auto-scaling.sh
+ 1201  nano -c auto-scaling.sh
+ 1202  sh auto-scaling.sh
+ 1203  nano -c auto-scaling.sh
+ 1204  sh auto-scaling.sh
+ 1205  nano -c auto-scaling.sh
+ 1206  sh auto-scaling.sh
+ 1207  nano -c auto-scaling.sh
+ 1208  sh auto-scaling.sh
+ 1209  nano -c auto-scaling.sh
+ 1210  sh auto-scaling.sh
+ 1211  nano -c auto-scaling.sh
+ 1212  sh auto-scaling.sh
+ 1213  nano -c auto-scaling.sh
+ 1214  sh auto-scaling.sh
+ 1215  nano -c auto-scaling.sh
+ 1216  bash auto-scaling.sh
+ 1217  nano -c auto-scaling.sh
+ 1218  bash auto-scaling.sh
+ 1219  sh auto-scaling.sh
+ 1220  nano -c auto-scaling.sh
+ 1221  sh auto-scaling.sh
+ 1222  nano -c auto-scaling.sh
+ 1223  sh auto-scaling.sh
+ 1224  nano -c auto-scaling.sh
+ 1225  sh auto-scaling.sh
+ 1226  nano -c auto-scaling.sh
+ 1227  ll
+ 1228  sh auto-scaling.sh
+ 1229  nano -c auto-scaling.sh
+ 1230  sh auto-scaling.sh
+ 1231  nano -c auto-scaling.sh
+ 1232  sh auto-scaling.sh
+ 1233  nano -c auto-scaling.sh
+ 1234  sh auto-scaling.sh
+ 1235  nano -c auto-scaling.sh
+ 1236  sh auto-scaling.sh
+ 1237  nano -c auto-scaling.sh
+ 1238  sh auto-scaling.sh
+ 1239  nano -c auto-scaling.sh
+ 1240  sh auto-scaling.sh
+ 1241  nano -c auto-scaling.sh
+ 1242  sh auto-scaling.sh
+ 1243  nano -c auto-scaling.sh
+ 1244  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000"
+ 1245  nano -c auto-scaling.sh
+ 1246  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000"
+ 1247  sh auto-scaling.sh
+ 1248  nano -c auto-scaling.sh
+ 1249  history | grep auto
+ 1250  nano -c auto-scaling.sh
+ 1251  chmod 770 auto-scaling.sh
+ 1252  sh auto-scaling.sh
+ 1253  nano -c auto-scaling.sh
+ 1254  sh auto-scaling.sh
+ 1255  /bin/bash --version
+ 1256  nano -c auto-scaling.sh
+ 1257  sh auto-scaling.sh
+ 1258  nano -c auto-scaling.sh
+ 1259  sh auto-scaling.sh
+ 1260  bash auto-scaling.sh
+ 1261  nano -c auto-scaling.sh
+ 1262  sh auto-scaling.sh
+ 1263  nano -c auto-scaling.sh
+ 1264  bash auto-scaling.sh
+ 1265  nano -c auto-scaling.sh
+ 1266  bash auto-scaling.sh
+ 1267  nano -c auto-scaling.sh
+ 1268  bash auto-scaling.sh
+ 1269  nano -c auto-scaling.sh
+ 1270  bash auto-scaling.sh
+ 1271  watch -n 1bash auto-scaling.sh
+ 1272  watch -n 1 bash auto-scaling.sh
+ 1273  nano -c auto-scaling.sh
+ 1274  watch -n 1 bash auto-scaling.sh
+ 1275  nano -c auto-scaling.sh
+ 1276  echo "show info;show stat" | socat unix-connect:/var/run/haproxy/admin.sock stdio | grep '^ConnRateLimit:' | awk '{print $2}'
+ 1277  echo "show info;show stat" | socat unix-connect:/var/run/haproxy/admin.sock stdio | grep '^ConnRateLimit:'
+ 1278  echo "show info;show stat" | socat unix-connect:/var/run/haproxy/admin.sock stdio
+ 1279  nano -c auto-scaling.sh
+ 1280  bash auto-scaling.sh
+ 1281  nano -c auto-scaling.sh
+ 1282  bash auto-scaling.sh
+ 1283  nano -c auto-scaling.sh
+ 1284  bash auto-scaling.sh
+ 1285  nano -c auto-scaling.sh
+ 1286  bash auto-scaling.sh
+ 1287  nano -c auto-scaling.sh
+ 1288  bash auto-scaling.sh
+ 1289  watch -n 1 bash auto-scaling.sh
+ 1290  nano -c auto-scaling.sh
+ 1291  watch -n 1 bash auto-scaling.sh
+ 1292  nano -c auto-scaling.sh
+ 1293  ps aux | grep auto
+ 1294  bash auto-scaling.sh
+ 1295  nano -c auto-scaling.sh
+ 1296  bash auto-scaling.sh
+ 1297  nano -c auto-scaling.sh
+ 1298  bash auto-scaling.sh
+ 1299  nano -c auto-scaling.sh
+ 1300  bash auto-scaling.sh
+ 1301  watch -n 5 bash auto-scaling.sh
+ 1302  nano -c auto-scaling.sh
+ 1303  bash auto-scaling.sh
+ 1304  watch -n 10 bash auto-scaling.sh
+ 1305  nano -c auto-scaling.sh
+ 1306  watch -n 10 bash auto-scaling.sh
+ 1307  nano -c auto-scaling.sh
+ 1308  watch -n 10 bash auto-scaling.sh
+ 1309  bash auto-scaling.sh
+ 1310  watch -n 10 bash auto-scaling.sh
+ 1311  nano -c auto-scaling.sh
+ 1312  watch -n 10 bash auto-scaling.sh
+ 1313  nano -c auto-scaling.sh
+ 1314  watch -n 10 bash auto-scaling.sh
+ 1315  nano -c auto-scaling.sh
+ 1316  watch -n 5 bash auto-scaling.sh
+ 1317  nano -c auto-scaling.sh
+ 1318  watch -n 5 bash auto-scaling.sh
+ 1319  bash auto-scaling.sh
+ 1320  nano -c auto-scaling.sh
+ 1321  watch -n 5 bash auto-scaling.sh
+ 1322  nano -c auto-scaling.sh
+ 1323  watch -n 5 bash auto-scaling.sh
+ 1324  nano -c auto-scaling.sh
+ 1325  watch -n 5 bash auto-scaling.sh
+ 1326  nano -c auto-scaling.sh
+ 1327  watch -n 5 bash auto-scaling.sh
+ 1328  watch -n 1 bash auto-scaling.sh
+ 1329  nano -c auto-scaling.sh
+ 1330  watch -n 1 bash auto-scaling.sh
+ 1331  nano -c auto-scaling.sh
+ 1332  watch -n 1 bash auto-scaling.sh
+ 1333  nano -c auto-scaling.sh
+ 1334  cp auto-scaling.sh auto-scaling1.sh
+ 1335  nano -c auto-scaling.sh
+ 1336  watch -n 1 bash auto-scaling.sh
+ 1337  nano -c auto-scaling.sh
+ 1338  watch -n 1 bash auto-scaling.sh
+ 1339  nano -c auto-scaling.sh
+ 1340  watch -n 1 bash auto-scaling.sh
+ 1341  nano -c auto-scaling.sh
+ 1342  watch -n 1 bash auto-scaling.sh
+ 1343  nano -c auto-scaling.sh
+ 1344  bash auto-scaling.sh
+ 1345  nano -c auto-scaling.sh
+ 1346  bash auto-scaling.sh
+ 1347  nano -c auto-scaling.sh
+ 1348  bash auto-scaling.sh
+ 1349  nano -c auto-scaling.sh
+ 1350  bash auto-scaling.sh
+ 1351  nano -c auto-scaling.sh
+ 1352  watch -n 1 bash auto-scaling.sh
+ 1353  nano -c auto-scaling.sh
+ 1354  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 3000"
+ 1355  nano -c auto-scaling.sh
+ 1356  watch -n 1 bash auto-scaling.sh
+ 1357  nano -c auto-scaling.sh
+ 1358  watch -n 1 bash auto-scaling.sh
+ 1359  nano -c auto-scaling.sh
+ 1360  watch -n 1 bash auto-scaling.sh
+ 1361  nano -c auto-scaling.sh
+ 1362  watch -n 1 bash auto-scaling.sh
+ 1363  nano -c auto-scaling.sh
+ 1364  watch -n 1 bash auto-scaling.sh
+ 1365  bash auto-scaling.sh
+ 1366  watch -n 1 bash auto-scaling.sh
+ 1367  nano -c auto-scaling.sh
+ 1368  watch -n 3 bash auto-scaling.sh
+ 1369  nano -c auto-scaling.sh
+ 1370  watch -n 3 bash auto-scaling.sh
+ 1371  nano -c auto-scaling.sh
+ 1372  watch -n 3 bash auto-scaling.sh
+ 1373  watch -n 1 bash auto-scaling.sh
+ 1374  nano -c auto-scaling.sh
+ 1375  nano auto-scaling1.sh
+ 1376  nano -c auto-scaling.sh
+ 1377  watch -n 1 bash auto-scaling.sh
+ 1378  nano -c auto-scaling.sh
+ 1379  bash auto-scaling.sh
+ 1380  nano -c auto-scaling.sh
+ 1381  bash auto-scaling.sh
+ 1382  nano -c auto-scaling.sh
+ 1383  bash auto-scaling.sh
+ 1384  nano -c auto-scaling.sh
+ 1385  bash auto-scaling.sh
+ 1386  nano -c auto-scaling.sh
+ 1387  bash auto-scaling.sh
+ 1388  nano -c auto-scaling.sh
+ 1389  bash auto-scaling.sh
+ 1390  nano -c auto-scaling.sh
+ 1391  bash auto-scaling.sh
+ 1392  nano -c auto-scaling.sh
+ 1393  bash auto-scaling.sh
+ 1394  nano -c auto-scaling.sh
+ 1395  bash auto-scaling.sh
+ 1396  nano -c auto-scaling.sh
+ 1397  bash auto-scaling.sh
+ 1398  nano -c auto-scaling.sh
+ 1399  bash auto-scaling.sh
+ 1400  nano -c auto-scaling.sh
+ 1401  bash auto-scaling.sh
+ 1402  nano -c auto-scaling.sh
+ 1403  bash auto-scaling.sh
+ 1404  nano -c auto-scaling.sh
+ 1405  bash auto-scaling.sh
+ 1406  nano -c auto-scaling.sh
+ 1407  bash auto-scaling.sh
+ 1408  nano -c auto-scaling.sh
+ 1409  bash auto-scaling.sh
+ 1410  nano -c auto-scaling.sh
+ 1411  bash auto-scaling.sh
+ 1412  nano -c auto-scaling.sh
+ 1413  bash auto-scaling.sh
+ 1414  watch -n 1 bash auto-scaling.sh
+ 1415  nano run.sh
+ 1416  ll
+ 1417  rm auto-scaling1.sh
+ 1418  ll
+ 1419  chmod +x run.sh
+ 1420  sh run.sh
+ 1421  nano run.sh
+ 1422  sh run.sh
+ 1423  nano -c auto-scaling.sh
+ 1424  nano run.sh
+ 1425  sh run.sh
+ 1426  nano -c auto-scaling.sh
+ 1427  sh run.sh
+ 1428  nano -c auto-scaling.sh
+ 1429  sh run.sh
+ 1430  nano -c auto-scaling.sh
+ 1431  sh run.sh
+ 1432  nano -c auto-scaling.sh
+ 1433  sh run.sh
+ 1434  nano -c auto-scaling.sh
+ 1435  sh run.sh
+ 1436  nano -c auto-scaling.sh
+ 1437  sh run.sh
+ 1438  ls
+ 1439  cat myfile.txt
+ 1440  rm myfile.txt
+ 1441  nano -c auto-scaling.sh
+ 1442  sh run.sh
+ 1443  ls
+ 1444  cat file.txt
+ 1445  nano -c auto-scaling.sh
+ 1446  sh run.sh
+ 1447  cat file.txt
+ 1448  rm file.txt
+ 1449  cat file.txt
+ 1450  nano -c auto-scaling.sh
+ 1451  sh run.sh
+ 1452  nano -c auto-scaling.sh
+ 1453  sh run.sh
+ 1454  cat file.txt
+ 1455  nano -c auto-scaling.sh
+ 1456  sh run.sh
+ 1457  cat file.txt
+ 1458  nano -c auto-scaling.sh
+ 1459  rm file.txt
+ 1460  sh run.sh
+ 1461  cat file.txt
+ 1462  rm file.txt
+ 1463  nano -c auto-scaling.sh
+ 1464  rm file.txt
+ 1465  sh run.sh
+ 1466  cat file.txt
+ 1467  sh run.sh
+ 1468  bg
+ 1469  fg
+ 1470  cat file.txt
+ 1471  rm file.txt
+ 1472  nano -c auto-scaling.sh
+ 1473  rm file.txt
+ 1474  nano -c auto-scaling.sh
+ 1475  sh run.sh
+ 1476  nano -c auto-scaling.sh
+ 1477  sh run.sh
+ 1478  nano -c auto-scaling.sh
+ 1479  sh run.sh
+ 1480  nano -c auto-scaling.sh
+ 1481  sh run.sh
+ 1482  nano -c auto-scaling.sh
+ 1483  sh run.sh
+ 1484  nano -c auto-scaling.sh
+ 1485  sh run.sh
+ 1486  nano -c auto-scaling.sh
+ 1487  sh run.sh
+ 1488  nano -c auto-scaling.sh
+ 1489  sh run.sh
+ 1490  docker ps
+ 1491  eval $(docker-machine env swarm-manager)
+ 1492  cat ~/show.sh
+ 1493  docker-machine ssh swarm-manager sudo docker ps
+ 1494  docker service ps my-web
+ 1495  docker service scale my-web=10
+ 1496  docker service ps my-web
+ 1497  docker service scale my-web=3
+ 1498  docker service ps my-web
+ 1499  docker service scale my-web=1
+ 1500  docker service ps my-web
+ 1501  docker service scale my-web=2
+ 1502  docker service ps my-web
+ 1503  docker service scale my-web=1
+ 1504  docker service ps my-web
+ 1505  docker service scale my-web=0
+ 1506  docker service ps my-web
+ 1507  docker service scale my-web=1
+ 1508  docker service ps my-web
+ 1509  docker service scale my-web=10
+ 1510  nano -c auto-scaling.sh
+ 1511  docker service ps my-web
+ 1512  docker service ps my-web | wc -l
+ 1513  docker service ps my-web
+ 1514  docker service ps my-web | wc -l
+ 1515  docker service ps my-web | grep "my-web.*" | wc -l
+ 1516  nano -c auto-scaling.sh
+ 1517  nano run.sh
+ 1518  sh run.sh
+ 1519  docker service ps my-web | grep "my-web.*" | wc -l
+ 1520  nano -c auto-scaling.sh
+ 1521  sh run.sh
+ 1522  docker service ps my-web | grep "my-web.*" | wc -l
+ 1523  docker service ps my-web
+ 1524  docker service ps my-web | grep "my-web.*" | grep "Running" | wc -l
+ 1525  nano -c auto-scaling.sh
+ 1526  sh run.sh
+ 1527  nano -c auto-scaling.sh
+ 1528  date
+ 1529  nc
+ 1530  date
+ 1531  np
+ 1532  date +"%m-%d-%y"
+ 1533  date +"%d-%m-%y"C
+ 1534  date +"%d-%m-%y-%T"
+ 1535  date
+ 1536  date +"%D-%m-%y-%T"
+ 1537  date +"%D-%T"
+ 1538  date +"%d-%M-%y-%T"
+ 1539  date +"%D-%m-%y-%T"
+ 1540  date +"%d-%m-%y-%T"
+ 1541  `date +"%d-%m-%y-%T"`
+ 1542  echo "time is `date +"%d-%m-%y-%T"`"
+ 1543  nano -c auto-scaling.sh
+ 1544  sh run.sh
+ 1545  nano -c auto-scaling.sh
+ 1546  sh run.sh
+ 1547  rm file.txt
+ 1548  nano -c auto-scaling.sh
+ 1549  sh run.sh
+ 1550  nano -c auto-scaling.sh
+ 1551  rm file.csv
+ 1552  sh run.sh
+ 1553  nano -c auto-scaling.sh
+ 1554  sh run.sh
+ 1555  nano -c auto-scaling.sh
+ 1556  sh run.sh
+ 1557  nano -c auto-scaling.sh
+ 1558  sh run.sh
+ 1559  exit
+ 1560  tail -f file.txt
+ 1561  watch -n 1 ll
+ 1562  watch -n 1 ls -la
+ 1563  watch -n 1 ls -la file.txt
+ 1564  tail -f file.txt
+ 1565  watch -n 1 ls -la file.txt
+ 1566  watch -n 1 docker service ps my-web
+ 1567  tail -f file.txt
+ 1568  rm file.txt
+ 1569  tail -f file.txt
+ 1570  tail -f file.csv
+ 1571  exit
+ 1572  hatop -s /var/run/haproxy/admin.sock
+ 1573  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000"
+ 1574  hatop -s /var/run/haproxy/admin.sock
+ 1575  socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1576  hatop -s /var/run/haproxy/admin.sock
+ 1577  echo "show info;show stat" | socat unix-connect:/var/run/haproxy/admin.sock stdio | grep 'CurrConns' | awk '{print $2}'
+ 1578  echo "show info;show stat" | socat unix-connect:/var/run/haproxy/admin.sock stdio | grep 'Maxconn' | awk '{print $2}'
+ 1579  hatop -s /var/run/haproxy/admin.sock
+ 1580  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000"
+ 1581  socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1582  hatop -s /var/run/haproxy/admin.sock
+ 1583  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000" socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1584  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000" && socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1585  hatop -s /var/run/haproxy/admin.sock
+ 1586  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000" && socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1587  hatop -s /var/run/haproxy/admin.sock
+ 1588  socat /var/run/haproxy/admin.sock - <<< "set maxconn global 1000" && socat /var/run/haproxy/admin.sock - <<< "set maxconn frontend mysite 1000"
+ 1589  hatop -s /var/run/haproxy/admin.sock
+ 1590  service haproxy restart
+ 1591  hatop -s /var/run/haproxy/admin.sock
+ 1592  service haproxy restart
+ 1593  hatop -s /var/run/haproxy/admin.sock
+ 1594  service haproxy restart
+ 1595  hatop -s /var/run/haproxy/admin.sock
+ 1596  tail -f file.csv
+ 1597  chmod 777 file.csv
+ 1598  tail -f file.csv
+ 1599  sh run.sh
+ 1600  nano -c auto-scaling.sh
+ 1601  sh run.sh
+ 1602  nano -c auto-scaling.sh
+ 1603  sh run.sh
+ 1604  nano -c auto-scaling.sh
+ 1605  docker service ps my-web
+ 1606  docker service scale my-web=
+ 1607  docker service ps my-web
+ 1608  nano -c auto-scaling.sh
+ 1609  nano run.sh
+ 1610  docker service ps my-web
+ 1611  sh run.sh
+ 1612  watchi -n 5 auto-scaling.sh
+ 1613  watch -n 5 auto-scaling.sh
+ 1614  watch -n 5 bash auto-scaling.sh
+ 1615  bash auto-scaling.sh
+ 1616  watch -n 5 bash auto-scaling.sh
+ 1617  sh run.sh
+ 1618  watch -n 5 bash auto-scaling.sh
+ 1619  exit
+ 1620  hatop -s /var/run/haproxy/admin.sock
+ 1621  watch -n 5 bash auto-scaling.sh
+ 1622  free -m
+ 1623  free -h
+ 1624  free
+ 1625  free -h
+ 1626  ~/show.sh
+ 1627  free -h
+ 1628  ~/show.sh
+ 1629  cat auto-scaling.sh
+ 1630  ls
+ 1631  cd swarm/
+ 1632  ls
+ 1633  ~/show.sh
+ 1634  free -m
+ 1635  free -h
+ 1636  ~/show.sh
+ 1637  docker-machine ssh swarm-worker1
+ 1638  docker service scale my-web=0
+ 1639  docker-machine ssh swarm-worker1
+ 1640  docker-machine ssh swarm-worker2
+ 1641  docker ps a
+ 1642  docker ps
+ 1643  docker ps -a
+ 1644  docker rm -f $(docker ps -a | grep my-web)
+ 1645  docker ps
+ 1646  docker service scale my-web=1
+ 1647  docker ps
+ 1648  docker service scale my-web=1
+ 1649  docker service ps my-web
+ 1650  docker service scale my-web=5
+ 1651  docker service ps my-web
+ 1652  docker ps
+ 1653  docker service scale my-web=1
+ 1654  docker service ps my-web
+ 1655  docker ps
+ 1656  docker-machine ssh swarm-worker1
+ 1657  eval `docker-machine env swarm-manager`
+ 1658  exit
+ 1659  cd swarm/
+ 1660  docker exec `docker ps | grep -i influx | awk '{print $1}'`
+ 1661  docker ps | grep -i influx | awk '{print $1}'
+ 1662  docker ps
+ 1663  docker-machine ssh swarm-worker1
+ 1664  docker stack services monitor
+ 1665  docker stack ps monitor
+ 1666  docker stack rm monitor
+ 1667  docker stack ps monitor
+ 1668  docker stack services monitor
+ 1669  ~/show.sh
+ 1670  docker ps -a
+ 1671  docker ps
+ 1672  docker ps -a
+ 1673  docker rm -f monitor_grafana.1.35jd7daweidxbmteakh02zusi
+ 1674  docker ps -a
+ 1675  docker rm -f fb6b6f8bb48c  43f8b7af69ee
+ 1676  docker ps -a
+ 1677  docker-machine ssh swarm-worker1
+ 1678  docker-machine ssh swarm-worker2
+ 1679  eval `docker-machine env swarm-manager`
+ 1680  docker node ls
+ 1681  docker stack deploy -c docker-stack.yml monitors
+ 1682  docker ps -a
+ 1683  docker stack services monitors
+ 1684  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisors'
+ 1685  docker stack ps monitor
+ 1686  docker stack ps monitors
+ 1687  docker stack services monitors
+ 1688  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisors'
+ 1689  docker stack rm monitors
+ 1690  docker stack services monitors
+ 1691  docker stack ps monitors
+ 1692  docker stack deploy -c docker-stack.yml monitor
+ 1693  docker stack ps monitors
+ 1694  docker stack ps monitor
+ 1695  eval `docker-machine env swarm-manager`
+ 1696  docker stack deploy -c docker-stack.yml monitor
+ 1697  docker stack ps monitor
+ 1698  docker stack services monitor
+ 1699  eval `docker-machine env swarm-manager`
+ 1700  ls
+ 1701  docker stack deploy -c docker-stack.yml monitor
+ 1702  docker node ls
+ 1703  docker-machine ssh swarm-worker2
+ 1704  eval `docker-machine env swarm-manager`
+ 1705  ls
+ 1706  cat docker-stack.yml
+ 1707  docker stack deploy -c docker-stack.yml monitor
+ 1708  docker omages
+ 1709  docker images
+ 1710  docker-machine ls
+ 1711  docker stack deploy -c docker-stack.yml monitor
+ 1712  docker stack deploy -c docker-stack.yml monitors
+ 1713  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisor'
+ 1714  docker ps
+ 1715  docker stack rm monitors
+ 1716  docker images
+ 1717  docker image rm influxdb influxdb  google/cadvisor google/cadvisor
+ 1718  docker image rm -f influxdb influxdb  google/cadvisor google/cadvisor
+ 1719  docker image -r influxdb influxdb  google/cadvisor google/cadvisor
+ 1720  docker image -h
+ 1721  docker image rm -f
+ 1722  docker image rm -f influxdb influxdb  google/cadvisor google/cadvisor
+ 1723  docker images
+ 1724  docker image rm -f 01e562251b70 8c4ef64b4ad1 61a53f6a13f2 f9ba08bafdea cc8254dd08c6
+ 1725  docker images
+ 1726  docker ps
+ 1727  nano docker-stack.yml
+ 1728  docker stack deploy -c docker-stack.yml monitor
+ 1729  docker stack deploy -c docker-stack.yml monitors
+ 1730  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisor'
+ 1731  docker stack rm monitors
+ 1732  nano docker-stack.yml
+ 1733  docker ps -a
+ 1734  ~/show.sh
+ 1735  ls
+ 1736  ll
+ 1737  nano docker-stack.yml
+ 1738  eval `docker-machine env swarm-manager`
+ 1739  docker stack deploy -c docker-stack.yml monitor
+ 1740  docker-machine ssh swarm-worker2
+ 1741  docker-machine ssh swarm-worker1
+ 1742  docker node ls
+ 1743  docker swarm -h
+ 1744  docker swarm update
+ 1745  docker swarm leave
+ 1746  docker swarm leave -f
+ 1747  docker node ls
+ 1748  eval `docker-machine env swarm-manager`
+ 1749  docker swarm init --advertise-addr `docker-machine ip swarm-manager`
+ 1750  docker-machine ssh swarm-worker1 docker swarm join --token `docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1751  docker-machine ssh swarm-worker1 docker swarm join --token `sudo docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1752  docker-machine ssh swarm-worker1 sudo docker swarm join --token `docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1753  docker-machine ssh swarm-worker2 sudo docker swarm join --token `docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1754  docker node ls
+ 1755  docker ps -a
+ 1756  docker service ps my-web
+ 1757  docker ps -a
+ 1758  ls
+ 1759  eval `docker-machine env swarm-manager`
+ 1760  docker stack deploy -c docker-stack.yml monitor
+ 1761  nano docker-stack.yml
+ 1762  cd ..
+ 1763  ll
+ 1764  cd swarm/
+ 1765  ls
+ 1766  cat docker-stack.yml
+ 1767  ls /var/lib/
+ 1768  cd ..
+ 1769  ls
+ 1770  cd swarm/
+ 1771  ll
+ 1772  chmod 777 docker-stack.yml
+ 1773  docker stack deploy -c docker-stack.yml monitor
+ 1774  nano docker-stack.yml
+ 1775  docker stack deploy -c docker-stack.yml monitoring
+ 1776  docker images
+ 1777  docker node ls
+ 1778  docker stack ps
+ 1779  docker ps -a
+ 1780  docker stack services monitoring
+ 1781  docker ps -a
+ 1782  docker stack rm monitoring
+ 1783  docker pull google/cadvisor:latest
+ 1784  docker pull influxdb:latest
+ 1785  docker pull grafana/grafana:latest
+ 1786  exit
+ 1787  docker ps -a
+ 1788  docker images
+ 1789  cd swarm/
+ 1790  docker stack deploy -c docker-stack.yml monitor
+ 1791  service docker restart
+ 1792  docker ps -a
+ 1793  docker ps
+ 1794  docker stack deploy -c docker-stack.yml monitor
+ 1795  docker stack deploy -c docker-stack.yml monitoring
+ 1796  docker ps -a
+ 1797  eval `docker-machine env swarm-manager`
+ 1798  docker stack rm monitoring
+ 1799  eval `docker-machine env swarm-manager`
+ 1800  docker stack deploy -c docker-stack.yml monitor
+ 1801  docker stack deploy -c docker-stack.yml monitors
+ 1802  docker ps
+ 1803  sudo usermod -aG docker $(whoami)
+ 1804  docker node ls
+ 1805  docker stack ps
+ 1806  docker stack ps monitors
+ 1807  docker stack rm monitors
+ 1808  docker stack ps monitors
+ 1809  docker stack ps monitoring
+ 1810  docker stack ps monitors
+ 1811  docker node ls
+ 1812  ~/show.sh
+ 1813  cd ..
+ 1814  ls
+ 1815  eval `docker-machine env swarm-manager`
+ 1816  docker ps
+ 1817  docker ps -a
+ 1818  docker stack ps
+ 1819  docker stack ps  monitor
+ 1820  docker stack ps  monitors
+ 1821  docker stack ps  monitoring
+ 1822  cd swarm
+ 1823  nano docker-stack.yml
+ 1824  docker images
+ 1825  docker stack deploy -c docker-stack.yml monitor
+ 1826  docker stack deploy -c docker-stack.yml monitors
+ 1827  docker stack ps  monitors
+ 1828  docker stack rm  monitors
+ 1829  nano docker-stack.yml
+ 1830  docker stack deploy -c docker-stack.yml monitor
+ 1831  docker stack deploy -c docker-stack.yml monitors
+ 1832  docker ps -a
+ 1833  docker stack ps  monitors
+ 1834  docker stack rm  monitors
+ 1835  nano docker-stack.yml
+ 1836  docker node ls
+ 1837  docker swarm -h
+ 1838  docker swarm -hupdate
+ 1839  docker swarm update
+ 1840  docker swarm leave
+ 1841  exit
+ 1842  docker swarm leave
+ 1843  exit
+ 1844  docker-machine ssh swarm-manager
+ 1845  cd swarm/
+ 1846  docker stack rm  monitors
+ 1847  docker stack deploy -c docker-stack.yml monitor
+ 1848  sudo reboot
+ 1849  cd swarm/
+ 1850  docker stack deploy -c docker-stack.yml monitor
+ 1851  docker ps -a
+ 1852  eval $(docker-machine env swarm-manager)
+ 1853  docker node ls
+ 1854  docker stack deploy -c docker-stack.yml monitor
+ 1855  nano docker-stack.yml
+ 1856  free -h
+ 1857  free -m
+ 1858  apt -get update
+ 1859  apt-get update
+ 1860  docker-machine ls
+ 1861  eval $(docker-machine env swarm-master)
+ 1862  docker node ls
+ 1863  docker-machine node ls
+ 1864  docker-machine ls
+ 1865  docker node ls
+ 1866  eval $(docker-machine env swarm-manager)
+ 1867  docker node ls
+ 1868  docker-machine node ls
+ 1869  docker-machine ls
+ 1870  docker-machine -h
+ 1871  docker node ls
+ 1872  docker-machine ssh swarm-worker1
+ 1873  docker node ls
+ 1874  docker node rm swarm-worker1
+ 1875  docker-machine ssh swarm-worker2
+ 1876  docker node rm swarm-worker2
+ 1877  docker node ls
+ 1878  docker node rm swarm-worker2
+ 1879  docker swarm leave
+ 1880  docker swarm -f leave
+ 1881  docker swarm --force leave
+ 1882  docker swarm --force
+ 1883  docker swarm leave --force
+ 1884  docker node ls
+ 1885  eval $(docker-machine env swarm-manager)
+ 1886  docker swarm init --advertise-addr `docker-machine ip swarm-manager`
+ 1887  docker-machine ssh swarm-worker1 sudo docker swarm join --token `sudo docker swarm join-token -q worker` `sudo docker-machine ip swarm-manager`:2377
+ 1888  docker-machine ssh swarm-worker1 sudo docker swarm join --token `docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1889  dcoker node ls
+ 1890  docker node ls
+ 1891  docker-machine ssh swarm-worker2 sudo docker swarm join --token `docker swarm join-token -q worker` `docker-machine ip swarm-manager`:2377
+ 1892  docker node ls
+ 1893  docker stack deploy -c docker-stack.yml monitor
+ 1894  docker-machine ssh swarm-manager sudo reboot
+ 1895  docker-machine ssh swarm-worker1 sudo reboot
+ 1896  docker-machine ssh swarm-worker2 sudo reboot
+ 1897  docker node ls
+ 1898  docker stack deploy -c docker-stack.yml monitor
+ 1899  docker ps -a
+ 1900  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisor'
+ 1901  docker ps -a
+ 1902  eval $(docker-machine env swarm-manager)
+ 1903  docker ps -a
+ 1904  docker-machine ssh swarm-manager sudo docker ps -a
+ 1905  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisor'
+ 1906  docker-machine ssh swarm-manager sudo docker ps
+ 1907  docker ps
+ 1908  docker staack ps monitor
+ 1909  docker stack ps monitor
+ 1910  docker stack rm monitor
+ 1911  nano docker-stack.yml
+ 1912  eval $(docker-machine env swarm-manager)
+ 1913  docker-machine ssh swarm-manager sudo docker ps
+ 1914  docker stack deploy -c docker-stack.yml monitor
+ 1915  docker stack ps monitor
+ 1916  docker ps
+ 1917  docker exec `docker ps | grep -i influx | awk '{print $1}'` influx -execute 'CREATE DATABASE cadvisor'
+ 1918  docker ps
+ 1919  docker stack ps monitor
+ 1920  history | grep viz
+ 1921  docker run -it -d --name=viz -p 8686:8080 -v /var/run/docker.sock:/var/run/docker.sock dockersamples/visualizer
+ 1922  docker run viz
+ 1923  docker ps
+ 1924  docker ps -a
+ 1925  docker start viz
+ 1926  docker ps
+ 1927  history | grep my-web
+ 1928  docker service create --name my-web --publish 8080:80 --replicas 1 --mount type=bind,src=/home/ubuntu/web/,dst=/usr/local/apache2/htdocs/ httpd
+ 1929  docker ps
+ 1930  docker service ps my-web
+ 1931  free -m
+ 1932  docker ps
+ 1933  docker-machine ssh swarm-manager sudo docker ps -a
+ 1934  docker-machine ssh swarm-worker1 sudo docker ps -a
+ 1935  docker-machine ssh swarm-worker2 sudo docker ps -a
+ 1936  docker-machine ssh swarm-worker2 sudo docker ps
+ 1937  docker-machine ssh swarm-worker1 sudo docker ps
+ 1938  docker-machine ssh swarm-monitor sudo docker ps
+ 1939  docker-machine ssh swarm-manager sudo docker ps
+ 1940  docker ps
+ 1941  exit
+ 1942  tail -f file.csv
+ 1943  tail -f data.csv
+ 1944  rm data.csv
+ 1945  tail -f data.csv
+ 1946  rm data.csv
+ 1947  tail -f data.csv
+ 1948  rm data.csv
+ 1949  tail -f data.csv
+ 1950  rm data.csv
+ 1951  tail -f data.csv
+ 1952  free -h
+ 1953  tail -f data.csv
+ 1954  docker ps -a
+ 1955  ls
+ 1956  nano run.sh
+ 1957  nano auto-scaling.sh
+ 1958  date -d "2013-04-06" "+%s%N"
+ 1959  date -d "2013-04-06" "+%s%N" | cut -b1-13
+ 1960  docker-machine ssh swarm-manager date
+ 1961  docker-machine ssh swarm-worker1 date
+ 1962  docker-machine ssh swarm-worker2 date
+ 1963  date
+ 1964  rm date -d "2013-04-06" "+%s%N" | cut -b1-13
+ 1965  date -d "2013-04-06" "+%s%N" | cut -b1-13
+ 1966  date -d "+%s%N" | cut -b1-13
+ 1967  date -d "2017-04-06" "+%s%N" | cut -b1-13
+ 1968  date -d `date` "+%s%N" | cut -b1-13
+ 1969  nano auto-scaling.sh
+ 1970  `date +'%d-%m-%y-%T'`
+ 1971  date +'%d-%m-%y-%T'
+ 1972  date +'%s'
+ 1973  date +'%s%N'
+ 1974  python
+ 1975  date +'&D%T%s%N'
+ 1976  date +'%D%T%s%N'
+ 1977  date +'%d%m%y%T%s%N'
+ 1978  date +'%d%m%y%HH%SS%s%N'
+ 1979  python
+ 1980  date +'%s%N'
+ 1981  python
+ 1982  nano auto-scaling.sh
+ 1983  sh run.sh
+ 1984  ps aux
+ 1985  python
+ 1986  date +'%s%N'
+ 1987  date
+ 1988  python
+ 1989  sh run.sh
+ 1990  rm file.csv
+ 1991  nano auto-scaling.sh
+ 1992  ls
+ 1993  sh run.sh
+ 1994  nano run.sh
+ 1995  sh run.sh
+ 1996  nano auto-scaling.sh
+ 1997  sh run.sh
+ 1998  nano run.sh
+ 1999  ls
+ 2000  cp ~/show.sh .
+ 2001  ls
+ 2002  cat mydump
+ 2003  tcpdump -r mydump
+ 2004  rm mydump
+ 2005  cat data.csv
+ 2006  ls
+ 2007  cd
+ 2008  ls
+ 2009  cd -
+ 2010  ls
+ 2011  git clone https://github.com/samiulsaki/project-INF4019NSA.git
+ 2012  ls
+ 2013  git init
+ 2014  ls
+ 2015  git status
+ 2016  git add .
+ 2017  git status
+ 2018  git commit -am "All the files are for project are added @ `date`"
+ 2019  git push origin master
+ 2020  sudo git push origin master
+ 2021  ls
+ 2022  ll
+ 2023  git push origin master
+ 2024  ls
+ 2025  mkdir project_files
+ 2026  cp * project_files/
+ 2027  ls
+ 2028  cd project_files/
+ 2029  ls
+ 2030  cd ..
+ 2031  rm -rf project_files/
+ 2032  ls
+ 2033  mv auto-scaling.sh project-INF4019NSA/
+ 2034  mv data.csv project-INF4019NSA/
+ 2035  mv show.sh project-INF4019NSA/
+ 2036  mv run.sh project-INF4019NSA/
+ 2037  ls
+ 2038  cp -h
+ 2039  cp --help
+ 2040  cp -R replicator/ project-INF4019NSA/
+ 2041  ls
+ 2042  mv --help
+ 2043  cd project-INF4019NSA/
+ 2044  ls
+ 2045  cd replicator/
+ 2046  ls
+ 2047  cd ..
+ 2048  ls
+ 2049  cp docker1/ project-INF4019NSA/
+ 2050  ls
+ 2051  cd project-INF4019NSA/
+ 2052  ls
+ 2053  cd ..
+ 2054  cp -R docker* project-INF4019NSA/
+ 2055  cd project-INF4019NSA/
+ 2056  ls
+ 2057  tree
+ 2058  cd ..
+ 2059  ls
+ 2060  cp -R dockprom/ project-INF4019NSA/
+ 2061  cp -R lb/ project-INF4019NSA/
+ 2062  cp -R ssl/ project-INF4019NSA/
+ 2063  cp -R swarm/ project-INF4019NSA/
+ 2064  cd project-INF4019NSA/
+ 2065  tree
+ 2066  ls
+ 2067  cd ..
+ 2068  ls
+ 2069  rm -rf dock*
+ 2070  ls
+ 2071  rm -rf replicator/
+ 2072  rm -rf ssl/
+ 2073  rm -rf swarm/
+ 2074  rm -rf lb/
+ 2075  ls
+ 2076  cd project-INF4019NSA/
+ 2077  git status
+ 2078  git add .
+ 2079  git commit -am "All files for project are added @ `date`"
+ 2080  git push origin master
+ 2081  git stauts
+ 2082  git status
+ 2083  cd ..
+ 2084  ls
+ 2085  history
+ 2086  cd project-INF4019NSA/
+ 2087  history >> history.txt
+ 2088  ls
+ 2089  cat history.txt
+ 2090  git add .
+ 2091  git commit -am "History from autotmata added @ `date`"
+ 2092  git init
+ 2093  git add .
+ 2094  git commit -am "History from autotmata added @ `date`"
+ 2095  git push origin master
+ 2096  git status
+ 2097  ls
+ 2098  git add .
+ 2099  git status
+ 2100  cat history.txt
+ 2101  git push origin master
+ 2102  cd ..
+ 2103  rm project-INF4019NSA/
+ 2104  rm -rf project-INF4019NSA/
+ 2105  ls
+ 2106  ll
+ 2107  rm -rf .git/
+ 2108  ls
+ 2109  ll
+ 2110  git clone https://github.com/samiulsaki/project-INF4019NSA.git
+ 2111  ls
+ 2112  cd project-INF4019NSA/
+ 2113  history >> history.txt
