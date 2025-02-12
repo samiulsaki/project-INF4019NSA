@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "co-request": "1.0.0",
-    "koa": "1.2.0"
+    "koa": "1.7.1"
   }
 }
